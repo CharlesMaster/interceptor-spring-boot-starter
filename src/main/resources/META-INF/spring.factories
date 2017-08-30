@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.bad.evil.log.autoconfigure.LogAutoConfiguration
